@@ -1,1 +1,1 @@
-This file will be edited later.
+This is a copy of my endemion theme folder. Included in it are the gulpfile.js and package.json files. These files are actually in the root foder of my installation (localhost:drupal-4) and not in the endymion theme folder. This is a fresh Drupal installation and so therefore, apart from trying to change the body background, are untouched. 
