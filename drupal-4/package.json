@@ -13,6 +13,8 @@
   "author": "Ivan Dorić",
   "license": "ISC",
   "devDependencies": {
+    "browser-sync": "^2.10.0",
+    "del": "^2.1.0",
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^3.0.2",
     "gulp-imagemin": "^2.3.0",
@@ -20,6 +22,7 @@
     "gulp-sass": "^2.0.4",
     "gulp-sourcemaps": "^1.5.2",
     "gulp-uglifyjs": "^0.6.2",
-    "imagemin-pngquant": "^4.2.0"
+    "imagemin-pngquant": "^4.2.0",
+    "run-sequence": "^1.1.5"
   }
 }
