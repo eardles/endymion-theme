@@ -1,13 +1,16 @@
 /* =======================================================================
 ## ++ Globals
 ========================================================================== */
+/* line 4, C:/xampp/htdocs/drupal-4/themes/custom/endymion/sass/_globals.scss */
 html {
   font-size: 100%; }
 
+/* line 8, C:/xampp/htdocs/drupal-4/themes/custom/endymion/sass/_globals.scss */
 body {
   -webkit-font-smoothing: antialiased;
-  background: #ff0; }
+  background: #dda; }
 
+/* line 13, C:/xampp/htdocs/drupal-4/themes/custom/endymion/sass/_globals.scss */
 * {
   box-sizing: border-box; }
 
@@ -15,15 +18,18 @@ body {
 ## ++ Cleafix
 ========================================================================== */
 /* float clearing for IE6 */
+/* line 23, C:/xampp/htdocs/drupal-4/themes/custom/endymion/sass/_globals.scss */
 * html .clearfix {
   height: 1%;
   overflow: visible; }
 
 /* float clearing for IE7 */
+/* line 29, C:/xampp/htdocs/drupal-4/themes/custom/endymion/sass/_globals.scss */
 * + html .clearfix {
   min-height: 1%; }
 
 /* float clearing for everyone else */
+/* line 34, C:/xampp/htdocs/drupal-4/themes/custom/endymion/sass/_globals.scss */
 .clearfix:after {
   clear: both;
   content: ".";
@@ -32,6 +38,7 @@ body {
   visibility: hidden;
   font-size: 0; }
 
+/* line 43, C:/xampp/htdocs/drupal-4/themes/custom/endymion/sass/_globals.scss */
 .clr {
   clear: both; }
 

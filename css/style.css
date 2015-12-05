@@ -16,7 +16,7 @@ html {
 
 body {
   -webkit-font-smoothing: antialiased;
-  background: #ff0; }
+  background: #dda; }
 
 * {
   box-sizing: border-box; }
@@ -45,9 +45,10 @@ body {
 .clr {
   clear: both; }
 
-/* WP parts 
-@import "header";
-@import "homepage";
+.layout-container {
+  background: #ddd; }
+
+/*@import "homepage";
 @import "sidebar";
 @import "footer";
 */
